@@ -16,7 +16,7 @@
         android:layout_margin="20dp"/>
 
     <EditText
-        android:layout_width="1dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/etMeaning"
         android:hint="Enter meaning"
@@ -29,7 +29,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Add word"
-        android:id="@+id/btn"/>
+        android:id="@+id/btnAddWord"/>
 
 
 </LinearLayout>
